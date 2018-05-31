@@ -1,2 +1,2 @@
-# github-analysis
-a github analysis tool about user and repository
+# Github-Analysis
+analysis tool for github user and repository
